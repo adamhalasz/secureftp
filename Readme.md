@@ -1,6 +1,11 @@
 # secureftp  
 Create SFTP connections in node.js to remote servers
 
+### Install
+```
+npm install secureftp
+```
+
 ### Features:
 - Supports infinite commands with arguments
 - Fully supported SFTP methods
@@ -35,7 +40,7 @@ Create SFTP connections in node.js to remote servers
 ### SFTP function Arguments
 You can have inifinite command arguments, the last one is the callback function
 ```javascript
-	sftp(command, command2 ... , callback)
+sftp(command, command2 ... , callback)
 ```
 
 ### Warning
