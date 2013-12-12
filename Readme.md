@@ -25,7 +25,7 @@ Create SFTP connections in node.js to remote servers
 ```
 
 ### Setup SFTP Instance Arguments
-```javascript
+```json
 {
 	"user: "root" 			// the username to connect with
 	"host": "127.0.0.0"		// the host to reach usually an IP
