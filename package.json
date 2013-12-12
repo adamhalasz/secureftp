@@ -1,6 +1,6 @@
 {
 	"name" : "secureftp",
-	"version": "v0.0.1",
+	"version": "v0.0.2",
 	"description": "Create SFTP connections in node.js to remote servers.",
 	"keywords": ["sftp", "sftp connection", "remote", "remote servers", "remote sftp"],
 	"bugs" : { 
